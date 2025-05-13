@@ -1,54 +1,43 @@
 # 🧠 AI-Powered Dermatological Lesion Detection
 An AI-driven web application for real-time classification and early detection of 8 common skin conditions using computer vision and deep learning.
 
-🚀 Overview
+### 🚀 Overview
 This project leverages MobileNetV2, TensorFlow, and Keras to build a lightweight and highly accurate image classification model that identifies dermatological diseases from user-uploaded images. The goal is to provide an accessible diagnostic aid for early skin disease detection and awareness.
 
-💡 Key Features
-🔬 Deep Learning-Based Classifier
-Trained on dermatological image datasets to detect:
+### 💡 Key Features 
+It is a Deep Learning-Based Classifier,trained on dermatological image datasets to detect below mentioned diseases
 
-Cellulitis
+## 🩺 Skin Diseases Detected
 
-Impetigo
+1. **Cellulitis**
+2. **Impetigo**
+3. **Athlete’s Foot**
+4. **Nail Fungus**
+5. **Ringworm**
+6. **Cutaneous Larva Migrans**
+7. **Chickenpox**
+8. **Shingles**
 
-Athlete’s Foot
+# 🌐 Intuitive AI-Powered Interface
 
-Nail Fungus
+Built using **Streamlit** to provide a user-friendly experience:
 
-Ringworm
-
-Cutaneous Larva Migrans
-
-Chickenpox
-
-Shingles
-
-# 🌐 User-Friendly Interface
-Built with Streamlit, allowing users to:
-
-Upload images and receive instant AI predictions
-
-View confidence scores for each condition
-
-Access suggested treatments and symptom summaries
-
-Download prediction results in CSV format for tracking history
-
-📊 Interactive Visualizations
-Includes confidence bar charts to help users understand the model's decision-making.
+- Upload skin images and get real-time AI predictions  
+- View confidence scores for each detected condition  
+- Access treatment suggestions and brief symptom summaries  
+- Download prediction results as CSV for easy tracking and history management  
 
 # 🧰 Tech Stack
-Frontend: Streamlit
-
-Backend: Python, TensorFlow, Keras
-
-Model: MobileNetV2 (Transfer Learning)
-
-Data Handling: NumPy, Pandas
-
-Deployment: Streamlit App (local/server-hosted)
+- Frontend: Streamlit
+- Backend: Python, TensorFlow, Keras
+- Model: MobileNetV2 (Transfer Learning)
+- Data Handling: NumPy, Pandas
+- Deployment: Streamlit App (local/server-hosted)
 
 🎯 Purpose
-Designed to support early-stage screening of skin lesions and encourage users to seek professional advice. This tool is not a replacement for medical diagnosis, but can provide useful preliminary insights.
+- Quick, AI-powered analysis  
+- Helpful treatment references  
+- Basic symptom explanations  
+
+> ⚠️ **Disclaimer**: This tool is intended for informational and educational purposes only. It is **not a substitute for professional medical diagnosis**. Always consult a healthcare provider for medical concerns.
 
