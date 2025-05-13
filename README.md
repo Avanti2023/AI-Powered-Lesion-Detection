@@ -1,13 +1,13 @@
-# 🧠 AI-Powered Dermatological Lesion Detection
+#  AI-Powered Dermatological Lesion Detection
 An AI-driven web application for real-time classification and early detection of 8 common skin conditions using computer vision and deep learning.
 
-### 🚀 Overview
+###  Overview
 This project leverages MobileNetV2, TensorFlow, and Keras to build a lightweight and highly accurate image classification model that identifies dermatological diseases from user-uploaded images. The goal is to provide an accessible diagnostic aid for early skin disease detection and awareness.
 
-### 💡 Key Features 
+###  Key Features 
 It is a Deep Learning-Based Classifier,trained on dermatological image datasets to detect below mentioned diseases
 
-## 🩺 Skin Diseases Detected
+##  Skin Diseases Detected
 
 1. **Cellulitis**
 2. **Impetigo**
@@ -18,7 +18,7 @@ It is a Deep Learning-Based Classifier,trained on dermatological image datasets 
 7. **Chickenpox**
 8. **Shingles**
 
-## 🌐 Intuitive AI-Powered Interface
+##  Intuitive AI-Powered Interface
 
 Built using **Streamlit** to provide a user-friendly experience:
 
@@ -27,7 +27,7 @@ Built using **Streamlit** to provide a user-friendly experience:
 - Access treatment suggestions and brief symptom summaries  
 - Download prediction results as CSV for easy tracking and history management  
 
-## 🧰 Tech Stack
+##  Tech Stack
 - Frontend: Streamlit
 - Backend: Python, TensorFlow, Keras
 - Model: MobileNetV2 (Transfer Learning)
